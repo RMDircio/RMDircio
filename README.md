@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, my name is Regina
+#### I am a fan of all that is wildlife, geography and data
+![I am a fan of all that is wildlife, geography and data](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am always working on a project, some times a new one, some times an old one, though always fun. 
+
+Skills: PYTHON / FLASKAPI / LINUX / SQL 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
